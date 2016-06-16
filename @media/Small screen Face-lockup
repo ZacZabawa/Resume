@@ -1,0 +1,14 @@
+@media screen and (max-width:650px){
+			.face-lockup
+				display:block;
+				text-align: center;}
+				
+				div {
+					display: inline-block
+				}
+				.facepic {
+					display: block;
+					background-position: center center;
+					background-repeat: no-repeat;
+					width: auto;
+					margin-bottom: 30px;
